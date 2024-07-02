@@ -1,5 +1,3 @@
-# server/app.py
-
 from flask import Flask, jsonify, make_response
 from flask_sqlalchemy import SQLAlchemy
 from flask_migrate import Migrate
